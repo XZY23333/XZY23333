@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[My main account](https://github.com/trinitrotofu)
+[My main Github account](https://github.com/trinitrotofu)
