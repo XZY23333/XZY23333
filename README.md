@@ -1,3 +1,3 @@
 # My main Github account
 
-[Click here](https://github.com/trinitrotofu)
+[Click here :)](https://github.com/trinitrotofu)
